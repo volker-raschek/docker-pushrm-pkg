@@ -1,7 +1,6 @@
 # docker-pushrm
 
 ![AUR version](https://img.shields.io/aur/version/docker-pushrm?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/docker-pushrm-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/docker-pushrm-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/docker-pushrm)
 
 This repository contains build files to build the Arch Linux package `docker-pushrm`. Instead of building the
